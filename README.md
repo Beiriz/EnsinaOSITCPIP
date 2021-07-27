@@ -24,7 +24,7 @@ python3 ensina_modelos_rede.py
 
 No windows:
 
-Só abrir o arquivo com 2 cliques após baixar e nstalar o python de https://www.python.org/downloads/
+Só abrir o arquivo com 2 cliques, após baixar e instalar o python de https://www.python.org/downloads/
 
 
 ------------------------------------------------------------------------
