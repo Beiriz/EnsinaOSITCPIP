@@ -10,6 +10,8 @@ Aleatoriamente são feitas perguntas do número, PDU e nome de cada camada dos m
 Ao longo do jogo é apresentado o resoltado, com o score (pontuação) da partida atual.
 Se a resposta 'x' for inputada, o jogo encerra e apresenta o score final.
 
+Confira os prints em jogo1.png e jogo2.png
+
 ------------------------------------------------------------------------
 
 ## Para executar o jogo:
