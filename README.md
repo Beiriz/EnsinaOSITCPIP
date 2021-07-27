@@ -16,9 +16,17 @@ Confira os prints em jogo1.png e jogo2.png
 
 ## Para executar o jogo:
 
+no linux:
+
 ```
 python3 ensina_modelos_rede.py
 ```
+
+No windows:
+
+Só abrir o arquivo com 2 cliques após baixar e nstalar o python de https://www.python.org/downloads/
+
+
 ------------------------------------------------------------------------
 ## LICENÇA
 
